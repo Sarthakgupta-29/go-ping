@@ -1,0 +1,4 @@
+github.com/architmishra-15/go-tables v1.0.0 h1:8PztMC8n0ewpCVFAPUkqiG6oHBFuu5lKiA2UpqdWTQ0=
+github.com/architmishra-15/go-tables v1.0.0/go.mod h1:dVEdZlU1g2bg6mhkhCsvv+wtcO/dxWu8WkwIQEihyXM=
+golang.org/x/sys v0.41.0 h1:Ivj+2Cp/ylzLiEU89QhWblYnOE9zerudt9Ftecq2C6k=
+golang.org/x/sys v0.41.0/go.mod h1:OgkHotnGiDImocRcuBABYBEXf8A9a87e/uXjp9XT3ks=
